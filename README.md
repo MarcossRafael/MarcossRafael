@@ -1,6 +1,6 @@
 # Marcos Rafael
 
-**`Analista de Dados e Machine Learning`**
+**`Análise de dados, Ciência de dados e Machine Learning`**
 
 Me chamo Marcos Rafael, tenho 26 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela UNIGRANRIO AFYA. Concentro meus estudos em análise de dados, estatística, ciência de dados e machine learning, sempre possuí inclinação pela área de exatas e em como agregar valor e resultado com o que eu posso e com isso encaixando perfeitamente na área de dados. Contudo, mantenho meus estudos junto da faculdade e projetos e estudo com menos energia em Java.
    <p align="left">
