@@ -2,7 +2,7 @@
 
 **`Análise de dados, Ciência de dados e Machine Learning`**
 
-Me chamo Marcos Rafael, tenho 26 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela UNIGRANRIO AFYA. Concentro meus estudos em análise de dados, estatística, ciência de dados e machine learning, sempre possuí inclinação pela área de exatas e em como agregar valor e resultado com o que eu posso e com isso encaixando perfeitamente na área de dados.
+Me chamo Marcos Rafael, tenho 26 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela UNIGRANRIO AFYA. Concentro meus estudos em análise de dados, estatística, ciência e engenharia de dados. Atuo atualmente no cargo de estágio em engenharia de dados.
    <p align="left">
       <a href="https://github.com/MarcossRafael?tab=followers">
          <img alt="followers" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/MarcossRafael?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
